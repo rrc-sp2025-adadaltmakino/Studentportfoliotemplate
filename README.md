@@ -1,5 +1,5 @@
-# Studentportfoliotemplate
+# Student Portfolio Template
 
-# This is a template for student portfolio website.
+## This is a template for student portfolio website.
 
-# All students must make modifications and use their images on the portfolio website to show that the you can do rapid development and rapid deployment for the purpose of the dev ops course we intend to use this for.
+Used in Assignment 02 and 04
